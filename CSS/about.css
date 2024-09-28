@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap");
+
+header {
+    background-color: #333333;
+}
+
+h1 {
+    font-style: inherit;
+}
+
+.head {
+    text-align: center;
+    color: #e73585;
+    font-size: large;
+    font-family: "Dancing ", "Script";
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.head1 {
+    margin-left: 30px;
+    margin-top: 20px;
+    font-size: large;
+    font-weight: bold;
+}
+
+.head2 {
+    margin-left: 30px;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: large;
+}
+
+.head3 {
+    margin-top: 20px;
+    margin-left: 30px;
+    font-weight: bold;
+    font-size: large;
+}
+
+.about {
+    text-align: center;
+    color: black;
+    text-decoration: underline;
+    font-style: normal;
+}
+
+.txt1 {
+    margin-left: 40px;
+    margin-right: 40%;
+}
+
+.txt2 {
+    margin-right: 40%;
+    margin-left: 40px;
+}
+
+.txt3 {
+    margin-left: 40px;
+    margin-right: 40%;
+}
+
+.txt4 {
+    text-align: center;
+    font-style: oblique;
+    margin-top: 50px;
+    font-weight: bold;
+    color: rgb(137, 40, 121);
+}
+
+footer {
+    background-color: #333333;
+    font-size: 13px;
+    margin-top: 25px;
+    bottom: sticky;
+}
+
+.footer-copyright {
+    color: #a9a9a9;
+    text-align: center;
+    padding-top: 25px;
+    /* margin-bottom: 30px; */
+}
+
+.image {
+    margin-left: 50%;
+}

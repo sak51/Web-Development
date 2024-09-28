@@ -1,0 +1,108 @@
+body {
+    background-color: black;
+  }
+  
+  .card {
+    background-color: aliceblue;
+    width: 97%;
+    margin-left: 25px;
+  }
+  
+  .card-header h2 {
+    font-size: 30px;
+    text-align: center;
+  }
+  
+  table {
+    border: 1px solid black;
+    text-align: center;
+  }
+  
+  .table-head {
+    background-color: black;
+    color: white;
+  }
+  
+  td {
+    width: 180px;
+    height: 30px;
+  }
+  
+  .button1 {
+    background-color: rgb(77, 77, 151);
+    color: white;
+  }
+  
+  .button2 {
+    background-color: rgb(223, 19, 19);
+    color: white;
+  }
+  
+  .add {
+    background-color: green;
+    color: white;
+    margin-left: 1365px;
+    width: 80px;
+  }
+  
+  /*popup form*/
+  
+  * {
+    margin: 0;
+    padding: 4px;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-size: 14px;
+    background: #fff;
+  }
+  
+  .form-container {
+    width: 600px;
+    margin: 30px auto 0;
+    margin-top: 30px;
+    /* margin-left: 200px;*/
+    margin-bottom: 50px;
+    border-top: 5px solid rgb(21, 21, 22);
+    box-shadow: 0 0 7px rgba(0, 0, 0, 0.5);
+    background-color: rgb(215, 176, 176);
+    border: 1px solid rgba(79, 72, 72, 0.3);
+    border-radius: 10px;
+    position: 30px;
+    bottom: 5px;
+  }
+  
+  .input-name {
+    width: 90%;
+    position: relative;
+    margin: 20px auto;
+  }
+  
+  .lock {
+    padding: 8px 11px;
+  }
+  
+  .phone {
+    padding: 8px 11px;
+  }
+  
+  #button {
+    padding: 7px;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 600;
+    border: none;
+    border-radius: 3px;
+    /*color: #fff;*/
+    cursor: pointer;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+    margin-left: 220px;
+  }
+  
+  #button {
+    background-color: black;
+    width: 150px;
+    color: white;
+  }
